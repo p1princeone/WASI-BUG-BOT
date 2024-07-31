@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "wasi",
+    "author": "prince",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
