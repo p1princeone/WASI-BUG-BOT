@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/b8bda8d243f53c191a69b.jpg">
+    <img alt="wasi" height="300" src="">
     <h1 align="center">PRINCEONE-BOT</h1>
   </a>
 </p>
