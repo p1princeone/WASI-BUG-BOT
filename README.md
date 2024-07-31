@@ -4,11 +4,11 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
     <img alt="wasi" height="300" src="https://telegra.ph/file/b8bda8d243f53c191a69b.jpg">
-    <h1 align="center">WASI-BUG-BOT</h1>
+    <h1 align="center">PRINCEONE-BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/wasi-ser"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/p1princeone"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254793651678"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    #PRINCEONE BOT
 
@@ -43,7 +43,7 @@ termux-setup-storage
 ```
 
 ```
-git clone https://github.com/wasi-ser/WASI-BUG-BOT 
+git clone https://github.com/p1princeone/WASI-BUG-BOT 
 ```
 ```
  cd WASI-BUG-BOT
